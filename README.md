@@ -1,2 +1,6 @@
-<h1>This repository contains my personal solutions to Project Euler problems, written for learning and practice.</h1> 
-<h3>Spoiler warning: So please don't open Euler Project if you wish to solve the problems yourself.</h3>
+# Python Practice Projects
+
+This repository is a collection of my personal Python practice and exercise projects. It's where I experiment, learn new concepts, and build small tools to improve my Python skills.
+
+- More projects will be added over time!
+- Feel free to browse, fork, or use the code for learning purposes. Suggestions and improvements are welcome! 🚀
